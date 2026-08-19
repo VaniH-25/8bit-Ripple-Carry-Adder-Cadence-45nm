@@ -31,7 +31,8 @@ This project presents the transistor-level design and simulation of an **8-bit R
 - 45nm CMOS Technology
 
 ---
-##RESULTS
+
+## Results
 
 Existing Work : 
 
