@@ -35,11 +35,13 @@ This project presents the transistor-level design and simulation of an **8-bit R
 
 Existing Work : 
               power - 1.669nW
+              
               delay - 130ns
 
               
 Proposed solution :
               power - 977nW
+              
               delay - 9.6ns
 
 ---
